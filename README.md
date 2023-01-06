@@ -1,1 +1,2 @@
 # cloud
+conception et développement d'une application spring boot pour la gestion d'un produit en utilisant le service azure blob Storage pour Stockage de données pour la sauvegarde et la restauration, la récupération d’urgence et l’archivage. et le service de gestion des cle azure key Vault pour simplifie la création et le contrôle des clés de chiffrement utilisées pour chiffrer vos données avec une base de données sql.
